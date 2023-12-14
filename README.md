@@ -6,7 +6,7 @@ This repository contains the implementation of a spatio-temporal autoencoder des
 ## Example of Reconstruction Error
 Below is an example of how the reconstruction error visualizes over time for a soccer match video. Segments with lower error values potentially indicate highlights.
 
-<a href="https://imgflip.com/gif/89c2bi">
-<a href="https://imgflip.com/gif/89c2bi">
-    <img src="https://i.imgflip.com/89c2bi.gif" alt="Reconstruction Error Over Time">
+<a href="https://imgflip.com/gif/89c2uq">
+<a href="https://imgflip.com/gif/89c2uq">
+    <img src="https://i.imgflip.com/89c2uq.gif" alt="Reconstruction Error Over Time">
 </a>
